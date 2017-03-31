@@ -58,8 +58,7 @@ nav a, button {
 }
 
 .header__inner {
-  width: 800px;
-  max-width: 100%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -87,8 +86,7 @@ nav a, button {
  */
 
 .nav {
-  width: 800px;
-  max-width: 100%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -129,8 +127,7 @@ nav a, button {
 
 main {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
-  width: 800px;
-  max-width:  100%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
